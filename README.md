@@ -9,7 +9,7 @@ Currently focused on backend development. Experienced across full project cycles
 
 ## Experience
 
-**Backend Development** — RESTful API, system architecture, database design, cloud deployment.  
+**Backend Development** — RESTful API, API Integration, system architecture, database design, API Documentation, cloud deployment.  
 **IoT Integration** — Modbus (MQTT/HTTP), ESP32, PLC, Haiwell Cloud SCADA, Electrical Monitoring Panel (Engine Sensor), C++/Arduino  
 **Frontend** — Company profile websites, internal dashboards, Hospital Surgery Monitoring.  
 
