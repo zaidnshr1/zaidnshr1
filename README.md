@@ -1,7 +1,7 @@
 # M. Zaid Anshori
 
 Software Developer · S1 Informatics Engineering  
-Currently focused on backend development. Experienced across full project cycles from API design to deployment.
+Currently focused on backend development. Experienced across full project cycles from API design to deployment. Happy to understanding the business flow and integrating the technology support.
 
 📧 m.zaidanshori04@gmail.com &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/mzaidanshori/) &nbsp;|&nbsp; [Instagram](https://instagram.com/zaidnshr._/)
 
